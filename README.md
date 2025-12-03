@@ -78,7 +78,7 @@ This repo is a **comprehensive Python reference and study guide** for:
 ## ⚠️ Note
 
 Some solutions may be experimental or incomplete; suggestions and PRs welcome!
-Improvements and additions are ongoing—stay tuned for updates.
+Improvements and additions are ongoing - stay tuned for updates.
 
 ---
 
@@ -92,3 +92,5 @@ Share your feedback, suggest improvements, or contribute solutions.
 ![GitHub Stars](https://img.shields.io/github/stars/pranavmakesitcool24k/leetcode-python-solutions?style=social)
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange.svg)
+
+_Created and maintained by Pranav Pardeshi_
